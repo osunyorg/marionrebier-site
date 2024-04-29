@@ -8,8 +8,8 @@ fr:
   languageName: Français
   params:
     social:
-      linkedin: >-
-        https://www.linkedin.com/in/marionrebier/
+      email: >-
+        marionrebier@hotmail.com
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
