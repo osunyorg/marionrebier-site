@@ -9,4 +9,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Voyage mexicain
+  target: "/projets/2006-voyage-mexicain/"
+  kind: url
+  children: []
 
