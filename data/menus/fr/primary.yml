@@ -1,12 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Héros zapatistes
   target: "/projets/2006-heros-zapatistes/"
   kind: url
+  children: []
+- title: À propos
+  target: "/a-propos/"
+  kind: page
   children: []
 
