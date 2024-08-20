@@ -5,4 +5,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Héros zapatistes
+  target: "/projets/2006-heros-zapatistes/"
+  kind: url
+  children: []
 
