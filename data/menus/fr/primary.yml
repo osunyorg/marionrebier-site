@@ -13,4 +13,8 @@ items:
   target: "/portfolio/"
   kind: page
   children: []
+- title: Beelearning
+  target: "/beelearning/"
+  kind: page
+  children: []
 
