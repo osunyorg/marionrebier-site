@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Héros zapatistes
-  target: "/projets/2006-heros-zapatistes/"
-  kind: url
-  children: []
 - title: Voyage mexicain
   target: "/projets/2006-voyage-mexicain/"
   kind: url
