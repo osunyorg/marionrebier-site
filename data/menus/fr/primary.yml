@@ -1,16 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Voyage mexicain
-  target: "/projets/2006-voyage-mexicain/"
-  kind: url
+- title: Blog
+  target: "/blog/"
+  kind: page
   children: []
 - title: À propos
   target: "/a-propos/"
-  kind: page
-  children: []
-- title: Blog
-  target: "/blog/"
   kind: page
   children: []
 
