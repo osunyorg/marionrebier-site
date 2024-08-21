@@ -9,4 +9,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Portfolio
+  target: "/portfolio/"
+  kind: page
+  children: []
 
