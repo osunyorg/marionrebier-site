@@ -11,10 +11,14 @@ fr:
       email: >-
         marionrebier@hotmail.com
   permalinks:
+    posts: /blog/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/blog/
   taxonomies:
     administrator: administrators
     author: authors
