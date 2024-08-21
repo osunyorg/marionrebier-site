@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Beelearning
+  target: "/beelearning/"
+  kind: page
+  children: []
 - title: Blog
   target: "/blog/"
   kind: page
@@ -11,10 +15,6 @@ items:
   children: []
 - title: Portfolio
   target: "/portfolio/"
-  kind: page
-  children: []
-- title: Beelearning
-  target: "/beelearning/"
   kind: page
   children: []
 
