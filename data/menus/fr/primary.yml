@@ -13,4 +13,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Blog
+  target: "/blog/"
+  kind: page
+  children: []
 
