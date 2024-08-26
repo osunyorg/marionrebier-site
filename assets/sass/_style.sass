@@ -2,3 +2,11 @@
     #document-header
         .logo
             opacity: 0
+.blocks
+    .block
+        &-gallery
+            &--grid
+                .gallery
+                    > *
+                        @include full-page
+                            flex: 0 0 columns(4)
