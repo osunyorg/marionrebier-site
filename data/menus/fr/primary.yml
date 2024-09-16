@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Offre de service
-  target: "/offre-de-services/"
+  target: "/offre-de-service/"
   kind: page
   children: []
 - title: Portfolio
