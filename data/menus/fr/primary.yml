@@ -13,12 +13,12 @@ items:
   target: "/blog/"
   kind: page
   children: []
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Témoignages
   target: ''
   kind: blank
+  children: []
+- title: À propos
+  target: "/a-propos/"
+  kind: page
   children: []
 
