@@ -9,12 +9,12 @@ items:
   target: "/photographie/"
   kind: page
   children: []
-- title: Blog
-  target: "/blog/"
-  kind: page
-  children: []
 - title: Témoignages
   target: "/temoignages/"
+  kind: page
+  children: []
+- title: Blog
+  target: "/blog/"
   kind: page
   children: []
 - title: À propos
