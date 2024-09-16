@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: BeeLearning
-  target: "/beelearning/"
+  target: "/offre-de-services/"
   kind: page
   children: []
 - title: Portfolio
