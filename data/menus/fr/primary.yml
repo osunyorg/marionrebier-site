@@ -21,4 +21,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 
