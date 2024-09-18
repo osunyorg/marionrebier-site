@@ -8,7 +8,11 @@ items:
 - title: Portfolio
   target: "/portfolio/"
   kind: page
-  children: []
+  children:
+  - title: Pédagogie
+    target: "/pedagogie/"
+    kind: page
+    children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page
