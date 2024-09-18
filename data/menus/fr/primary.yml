@@ -25,8 +25,8 @@ items:
     target: "/ateliers-de-sensibilisation/"
     kind: page
     children: []
-- title: Photographie
-  target: "/photographie/"
+- title: Portfolio
+  target: "/portfolio/"
   kind: page
   children: []
 - title: Témoignages
