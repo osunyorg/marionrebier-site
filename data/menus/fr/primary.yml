@@ -25,4 +25,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Portfolio page classique
+  target: ''
+  kind: blank
+  children: []
 
