@@ -9,6 +9,10 @@ items:
     target: "/ingenierie-pedagogique/"
     kind: page
     children: []
+  - title: Conception e-learning
+    target: "/conception-e-learning/"
+    kind: page
+    children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
