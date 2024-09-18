@@ -13,6 +13,10 @@ items:
     target: "/conception-e-learning/"
     kind: page
     children: []
+  - title: Formation en responsabilités numériques
+    target: "/formation-en-responsabilites-numeriques/"
+    kind: page
+    children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
