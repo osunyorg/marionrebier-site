@@ -8,11 +8,7 @@ items:
 - title: Portfolio
   target: "/portfolio/"
   kind: page
-  children:
-  - title: Photographie
-    target: "/photographie/"
-    kind: page
-    children: []
+  children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page
