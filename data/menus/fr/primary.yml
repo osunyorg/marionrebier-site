@@ -4,7 +4,11 @@ items:
 - title: Offre de service
   target: "/offre-de-service/"
   kind: page
-  children: []
+  children:
+  - title: Ingénierie pédagogique
+    target: "/ingenierie-pedagogique/"
+    kind: page
+    children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
