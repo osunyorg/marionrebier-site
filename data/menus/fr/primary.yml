@@ -13,6 +13,10 @@ items:
     target: "/pedagogie/"
     kind: page
     children: []
+  - title: Photographie
+    target: "/photographie/"
+    kind: page
+    children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page
