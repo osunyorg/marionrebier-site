@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Offre de service
-  target: "/offre-de-service/"
+  target: "/beelearning/"
   kind: page
   children:
   - title: Ingénierie pédagogique
