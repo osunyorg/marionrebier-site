@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Portfolio
-  target: "/photographie/"
+  target: "/portfolio/"
   kind: page
   children: []
 - title: Témoignages
