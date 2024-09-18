@@ -9,10 +9,6 @@ items:
   target: "/portfolio/"
   kind: page
   children:
-  - title: Pédagogie
-    target: "/pedagogie/"
-    kind: page
-    children: []
   - title: Photographie
     target: "/photographie/"
     kind: page
