@@ -45,8 +45,4 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: Pédagogie
-  target: "/portfolio/"
-  kind: page
-  children: []
 
