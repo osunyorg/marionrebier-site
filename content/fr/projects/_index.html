@@ -62,10 +62,15 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      Portfolio
     ranks:
-      self: false
+      self: 2
+      children: 3
     data:
+      page: 
+        path: "/portfolio/"
+        slug: "portfolio"
+        file: "projects/_index.html"
       options:
         image: true
         main_summary: true
@@ -73,6 +78,14 @@ contents:
 
       layout: grid
       pages:
+        - path: "/pedagogie/"
+          slug: "pedagogie"
+          file: "pages/pedagogie/_index.html"
+          external: false
+        - path: "/photographie/"
+          slug: "photographie"
+          file: "pages/photographie/_index.html"
+          external: false
 
 
 
