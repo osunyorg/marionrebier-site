@@ -25,7 +25,7 @@ items:
     target: "/ateliers-de-sensibilisation/"
     kind: page
     children: []
-- title: Portfolio
+- title: Pédagogie
   target: "/portfolio/"
   kind: page
   children: []
