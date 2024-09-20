@@ -29,10 +29,6 @@ items:
   target: "/portfolio/"
   kind: page
   children: []
-- title: Témoignages
-  target: "/temoignages/"
-  kind: page
-  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
