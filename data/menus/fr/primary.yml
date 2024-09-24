@@ -29,12 +29,12 @@ items:
   target: "/portfolio/"
   kind: page
   children: []
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Blog
   target: "/blog/"
+  kind: page
+  children: []
+- title: À propos
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Contact
