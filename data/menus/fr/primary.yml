@@ -52,11 +52,7 @@ items:
 - title: Agenda
   target: ''
   kind: blank
-  children:
-  - title: Interventions
-    target: "/agenda/"
-    kind: page
-    children: []
+  children: []
 - title: Contact
   target: "/contact/"
   kind: page
