@@ -50,8 +50,8 @@ items:
   kind: page
   children: []
 - title: Agenda
-  target: ''
-  kind: blank
+  target: "/agenda/"
+  kind: page
   children: []
 - title: Contact
   target: "/contact/"
