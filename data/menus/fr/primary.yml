@@ -34,8 +34,8 @@ items:
     kind: page
     children: []
   - title: Photographie
-    target: ''
-    kind: blank
+    target: "/photographie/"
+    kind: page
     children: []
 - title: Blog
   target: "/blog/"
