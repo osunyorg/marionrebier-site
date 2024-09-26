@@ -29,7 +29,7 @@ items:
   target: "/portfolio/"
   kind: page
   children:
-  - title: Pédagogie
+  - title: Portfolio pédagogique
     target: "/pedagogie/"
     kind: page
     children: []
