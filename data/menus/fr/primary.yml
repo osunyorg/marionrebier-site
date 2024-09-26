@@ -30,8 +30,8 @@ items:
   kind: page
   children:
   - title: Pédagogie
-    target: ''
-    kind: blank
+    target: "/pedagogie/"
+    kind: page
     children: []
   - title: Photographie
     target: ''
