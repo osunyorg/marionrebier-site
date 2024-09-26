@@ -33,6 +33,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: Photographie
+    target: ''
+    kind: blank
+    children: []
 - title: Blog
   target: "/blog/"
   kind: page
