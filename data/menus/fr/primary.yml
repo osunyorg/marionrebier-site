@@ -37,12 +37,12 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Agenda
   target: ''
   kind: blank
+  children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
   children: []
 
