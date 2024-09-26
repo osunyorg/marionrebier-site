@@ -9,7 +9,7 @@ items:
   target: "/beelearning/"
   kind: page
   children:
-  - title: Présentation BeeLearning
+  - title: Introduction
     target: "/beelearning/"
     kind: page
     children: []
