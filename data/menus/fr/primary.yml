@@ -33,7 +33,7 @@ items:
     target: "/pedagogie/"
     kind: page
     children: []
-  - title: Photographie
+  - title: Portfolio photographique
     target: "/photographie/"
     kind: page
     children: []
