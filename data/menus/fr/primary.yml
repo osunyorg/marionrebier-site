@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
   - title: Portfolio photographique
-    target: "/photographie/"
+    target: "/portfolio-photographique/"
     kind: page
     children: []
 - title: Blog
