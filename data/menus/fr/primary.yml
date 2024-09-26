@@ -28,7 +28,11 @@ items:
 - title: Portfolio
   target: "/portfolio/"
   kind: page
-  children: []
+  children:
+  - title: Portfolio pédagogique
+    target: ''
+    kind: blank
+    children: []
 - title: Blog
   target: "/blog/"
   kind: page
