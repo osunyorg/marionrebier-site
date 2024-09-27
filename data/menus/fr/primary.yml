@@ -25,6 +25,10 @@ items:
     target: "/ateliers-de-sensibilisation/"
     kind: page
     children: []
+  - title: Présentation
+    target: "/beelearning/"
+    kind: page
+    children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
