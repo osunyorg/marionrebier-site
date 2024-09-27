@@ -9,6 +9,10 @@ items:
   target: "/beelearning/"
   kind: page
   children:
+  - title: Présentation
+    target: "/beelearning/"
+    kind: page
+    children: []
   - title: Ingénierie pédagogique
     target: "/ingenierie-pedagogique/"
     kind: page
@@ -23,10 +27,6 @@ items:
     children: []
   - title: Ateliers de sensibilisation
     target: "/ateliers-de-sensibilisation/"
-    kind: page
-    children: []
-  - title: Présentation
-    target: "/beelearning/"
     kind: page
     children: []
 - title: Portfolio
