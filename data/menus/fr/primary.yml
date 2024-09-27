@@ -37,4 +37,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Ingénierie pédagogique
+  target: "/beelearning/"
+  kind: page
+  children: []
 
