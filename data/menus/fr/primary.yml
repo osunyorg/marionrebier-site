@@ -46,7 +46,7 @@ items:
   kind: page
   children: []
 - title: Blog
-  target: "/blog/"
+  target: "/ressources/"
   kind: page
   children: []
 - title: Agenda

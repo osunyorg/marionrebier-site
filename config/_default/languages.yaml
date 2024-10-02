@@ -17,11 +17,11 @@ fr:
     events_categories: /agenda/:slug/
     projects: /portfolio/:year-:slug/
     projects_categories: /portfolio/:slug/
-    posts: /blog/:year-:month-:day-:slug/
-    posts_categories: /blog/:slug/
+    posts: /ressources/:year-:month-:day-:slug/
+    posts_categories: /ressources/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/blog/
+    authors: /equipe/:slug/ressources/
   taxonomies:
     administrator: administrators
     author: authors
