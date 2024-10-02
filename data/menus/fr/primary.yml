@@ -45,7 +45,7 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
-- title: Blog
+- title: Ressources
   target: "/ressources/"
   kind: page
   children: []
