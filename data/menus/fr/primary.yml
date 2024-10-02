@@ -9,10 +9,6 @@ items:
   target: "/beelearning/"
   kind: page
   children:
-  - title: Présentation
-    target: "/beelearning/"
-    kind: page
-    children: []
   - title: Ingénierie pédagogique
     target: "/ingenierie-pedagogique/"
     kind: page
