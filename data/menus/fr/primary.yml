@@ -37,6 +37,10 @@ items:
     target: "/portfolio-pedagogique/"
     kind: page
     children: []
+  - title: Portfolio photographique
+    target: "/portfolio-photographique/"
+    kind: page
+    children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
