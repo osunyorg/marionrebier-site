@@ -46,8 +46,8 @@ items:
   kind: page
   children: []
 - title: Ressources
-  target: "/ressources/"
-  kind: page
+  target: ''
+  kind: blank
   children: []
 - title: Contact
   target: "/contact/"
