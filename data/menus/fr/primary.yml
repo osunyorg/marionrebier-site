@@ -30,7 +30,7 @@ items:
   kind: page
   children:
   - title: Portfolio pédagogique
-    target: "/portfolio-pedagogique/"
+    target: "/portfolio/portfolio-pedagogique/"
     kind: page
     children: []
   - title: Portfolio photographique
