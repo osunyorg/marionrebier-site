@@ -21,7 +21,6 @@ fr:
     posts_categories: /ressources/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/ressources/
   taxonomies:
     administrator: administrators
     author: authors
