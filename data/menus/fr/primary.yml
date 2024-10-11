@@ -37,10 +37,6 @@ items:
     target: "/portfolio-photographique/"
     kind: page
     children: []
-- title: Ressources
-  target: "/ressources/"
-  kind: page
-  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
