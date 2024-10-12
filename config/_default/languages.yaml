@@ -19,8 +19,6 @@ fr:
     projects_categories: /portfolio/:slug/
     posts: /ressources/:year-:month-:day-:slug/
     posts_categories: /ressources/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
