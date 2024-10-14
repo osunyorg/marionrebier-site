@@ -1,34 +1,10 @@
 ---
 title: Menu principal
 items:
-- title: Offre de service
-  target: "/beelearning/"
-  kind: page
-  children:
-  - title: Ingénierie pédagogique
-    target: "/ingenierie-pedagogique/"
-    kind: page
-    children: []
-  - title: Conception e-learning
-    target: "/conception-e-learning/"
-    kind: page
-    children: []
-  - title: Formation en responsabilités numériques
-    target: "/formation-en-responsabilites-numeriques/"
-    kind: page
-    children: []
-  - title: Ateliers de sensibilisation
-    target: "/ateliers-de-sensibilisation/"
-    kind: page
-    children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
-  children:
-  - title: Portfolio photographique
-    target: "/portfolio-photographique/"
-    kind: page
-    children: []
+  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
