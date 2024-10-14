@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Accueil
-  target: "/"
-  kind: page
-  children: []
 - title: Offre de service
   target: "/beelearning/"
   kind: page
