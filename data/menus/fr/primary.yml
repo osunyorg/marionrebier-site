@@ -9,8 +9,8 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
+- title: BeeLearning
+  target: https://www.beelearning.fr
+  kind: url
   children: []
 
