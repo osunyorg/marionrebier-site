@@ -1,6 +1,11 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
+  file: content/fr/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
@@ -10,9 +15,4 @@ items:
   target: https://www.beelearning.fr
   kind: url
   children: []
-- title: Accueil
-  target: "/"
-  kind: page
-  children: []
-  file: content/fr/_index.html
 
