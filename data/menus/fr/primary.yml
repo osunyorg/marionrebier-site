@@ -10,4 +10,9 @@ items:
   target: https://www.beelearning.fr
   kind: url
   children: []
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
+  file: content/fr/_index.html
 
