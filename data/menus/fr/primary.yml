@@ -1,11 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Portfolio
-  target: "/portfolio/"
-  kind: page
-  children: []
-  file: content/fr/projects/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
