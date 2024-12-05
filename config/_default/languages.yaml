@@ -13,12 +13,8 @@ fr:
       linkedin: >-
         https://www.linkedin.com/in/marionrebier/
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
     projects: /portfolio/:year-:slug/
     projects_categories: /portfolio/:slug/
-    posts: /ressources/:year-:month-:day-:slug/
-    posts_categories: /ressources/:slug/
   taxonomies:
     administrator: administrators
     author: authors
