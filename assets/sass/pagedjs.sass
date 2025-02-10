@@ -6,20 +6,24 @@
 .block
     &-gallery
         &__image
-            break-before: none
-        figcaption
-            position: relative
-            p
-                display: inline
-            .credit
-                display: inline
-                font-size: 11px
-                text-align: end
-                *
-                    font-size: 7pt
-                    margin-top: 0
-        img
-            max-height: 220mm
+            break-before: auto
+            break-inside: avoid
+            figcaption
+                margin-top: 2mm
+                margin-bottom: 20mm
+                position: relative
+                p
+                    display: inline
+                    font-size: 12pt
+                    line-height: 150%
+                .credit
+                    display: inline
+                    text-align: end
+                    *
+                        font-size: 6pt
+                        margin-top: 0
+            img
+                max-height: 220mm
         h2
             font-size: 10pt
             margin-bottom: 0
