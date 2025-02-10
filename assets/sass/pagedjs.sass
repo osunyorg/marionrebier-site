@@ -4,5 +4,27 @@
 @import "_theme/pagedjs"
 
 .block
+    &-gallery
+        &__image
+            break-before: none
+        figcaption
+            position: relative
+            p
+                display: inline
+            .credit
+                display: inline
+                font-size: 11px
+                text-align: end
+                *
+                    font-size: 7pt
+                    margin-top: 0
+        img
+            max-height: 220mm
+        h2
+            font-size: 10pt
+            margin-bottom: 0
+            text-transform: uppercase
     &-title
-        break-before: left
+        break-before: page
+        min-height: 7mm
+        margin-top: -7mm
