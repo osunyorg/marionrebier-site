@@ -2,6 +2,11 @@
 
 baseURL: https://www.marionrebier.com
 
+## OSUNY
+osuny:
+  website:
+    id: 551da493-34a1-431c-a31c-121bfc7f7f38
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
