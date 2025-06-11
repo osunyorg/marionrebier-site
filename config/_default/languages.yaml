@@ -22,10 +22,6 @@ fr:
           value: >-
             https://www.linkedin.com/in/marionrebier/
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /portfolio/:year-:slug/
-    projects_categories: /portfolio/:slug/
   taxonomies:
     administrator: administrators
     author: authors
