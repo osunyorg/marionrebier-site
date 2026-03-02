@@ -7,6 +7,10 @@ osuny:
   website:
     id: 551da493-34a1-431c-a31c-121bfc7f7f38
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "marionrebier.com"
 
 ## LANGUAGE
 defaultContentLanguage: fr
