@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Accueil
-  slug: accueil
+- title: Photographies
+  slug: photographies
   target: "/"
   kind: page
   new_tab: false
