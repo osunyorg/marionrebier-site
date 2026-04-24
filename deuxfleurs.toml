@@ -15,74 +15,74 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/portfolio/"
+from = "/portfolio/index.html"
 to = "/photographies/"
 
 [[redirects]]
-from = "/blog/"
+from = "/blog/index.html"
 to = "/ressources/"
 
 [[redirects]]
-from = "/portfolio/2014-mockba-la-blanche/"
+from = "/portfolio/2014-mockba-la-blanche/index.html"
 to = "/photographies/2014-russie-nebuleuse/"
 
 [[redirects]]
-from = "/portfolio/2006-voyage-mexicain/"
+from = "/portfolio/2006-voyage-mexicain/index.html"
 to = "/photographies/2006-voyage-mexicain/"
 
 [[redirects]]
-from = "/portfolio/2014-rossiya-la-blanche/"
+from = "/portfolio/2014-rossiya-la-blanche/index.html"
 to = "/photographies/2014-rossiya-la-blanche/"
 
 [[redirects]]
-from = "/photographie/"
+from = "/photographie/index.html"
 to = "/photographies/"
 
 [[redirects]]
-from = "/photographies/0-camino-frances/"
+from = "/photographies/0-camino-frances/index.html"
 to = "/photographies/2008-camino-frances/"
 
 [[redirects]]
-from = "/equipe-editoriale/"
+from = "/equipe-editoriale/index.html"
 to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/portfolio/2014-russie-nebuleuse/"
+from = "/portfolio/2014-russie-nebuleuse/index.html"
 to = "/photographies/2014-russie-nebuleuse/"
 
 [[redirects]]
-from = "/a-propos/"
+from = "/a-propos/index.html"
 to = "/contact/"
 
 [[redirects]]
-from = "/equipe/marion-rebier/actualites/"
+from = "/equipe/marion-rebier/actualites/index.html"
 to = "/equipe/marion-rebier/ressources/"
 
 [[redirects]]
-from = "/portfolio/2014-neiges-de-russie/"
+from = "/portfolio/2014-neiges-de-russie/index.html"
 to = "/photographies/2014-rossiya-la-blanche/"
 
 [[redirects]]
-from = "/portfolio/2014-baikal-une-lumiere/"
+from = "/portfolio/2014-baikal-une-lumiere/index.html"
 to = "/photographies/2014-baikal-une-lumiere/"
 
 [[redirects]]
-from = "/beelearning/ressources/"
+from = "/beelearning/ressources/index.html"
 to = "/ressources/"
 
 [[redirects]]
-from = "/equipe/marion-rebier/blog/"
+from = "/equipe/marion-rebier/blog/index.html"
 to = "/equipe/marion-rebier/ressources/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/photographies/"
 
 [[redirects]]
-from = "/portfolio/2006-heros-zapatistes/"
+from = "/portfolio/2006-heros-zapatistes/index.html"
 to = "/photographies/2006-heros-zapatistes/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/ressources/"
 
