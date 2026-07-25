@@ -83,6 +83,10 @@ from = "/portfolio/2006-heros-zapatistes/index.html"
 to = "/photographies/2006-heros-zapatistes/"
 
 [[redirects]]
+from = "/accessibilite/index.html"
+to = "/responsabilites-numeriques/"
+
+[[redirects]]
 from = "/actualites/index.html"
 to = "/ressources/"
 
